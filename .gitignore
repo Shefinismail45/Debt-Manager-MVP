@@ -1,0 +1,5 @@
+﻿venv/
+personal_finance.db
+__pycache__/
+*.pyc
+.env
